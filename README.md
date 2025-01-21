@@ -13,5 +13,3 @@ This Bash script checks if the `ssh` process is running on the system and output
 2. Make it executable:
 ```bash
 chmod +x check-ssh.sh
-
-
